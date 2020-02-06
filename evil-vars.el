@@ -873,7 +873,7 @@ expression matching the buffer's name and STATE is one of `normal',
     Info-mode
     Man-mode
     speedbar-mode
-    undo-tree-visualizer-mode
+    ;; undo-tree-visualizer-mode
     woman-mode)
   "Modes that should come up in Motion state."
   :type  '(repeat symbol)
